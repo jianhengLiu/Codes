@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545395986 source:c:\users\hp\desktop\vector\main.cpp
+	<iostream>
+	"vector_ss.h"
+
+1545398355 c:\users\hp\desktop\vector\vector_ss.h
+	<iostream>
+
