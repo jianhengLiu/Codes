@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1544793244 source:c:\users\hp\desktop\matrix_4\main.cpp
+	<iostream>
+	"MATRIX_4.h"
+
+1544793047 c:\users\hp\desktop\matrix_4\matrix_4.h
+	<iostream>
+
+1544793052 source:c:\users\hp\desktop\matrix_4\matrix_4.cpp
+	"MATRIX_4.h"
+	<iostream>
+
+1545120324 source:c:\users\94367\desktop\c++\matrix_4\main.cpp
+	<iostream>
+	"MATRIX_4.h"
+
+1545111310 c:\users\94367\desktop\c++\matrix_4\matrix_4.h
+	<iostream>
+
+1545120356 source:c:\users\94367\desktop\c++\matrix_4\matrix_4.cpp
+	"MATRIX_4.h"
+	<iostream>
+	<cmath>
+
+1545120928 source:c:\users\94367\desktop\c++\matrix\matrix_4\main.cpp
+	<iostream>
+	"MATRIX_4.h"
+
+1545111310 c:\users\94367\desktop\c++\matrix\matrix_4\matrix_4.h
+	<iostream>
+
+1545120356 source:c:\users\94367\desktop\c++\matrix\matrix_4\matrix_4.cpp
+	"MATRIX_4.h"
+	<iostream>
+	<cmath>
+
