@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544705323 source:c:\users\94367\desktop\c++\test_heapsort1\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
